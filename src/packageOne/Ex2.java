@@ -11,6 +11,6 @@ public class Ex2 {
     }
     public static void main(String[] args){
         // 下面的语句将创建一个Puppy对象
-        Ex2 myPuppy = new Ex2( "tommy" );
+        Ex2 myPuppy = new Ex2( "来福" );
     }
 }
